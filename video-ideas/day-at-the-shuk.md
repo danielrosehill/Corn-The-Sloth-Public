@@ -12,6 +12,8 @@ Might have enough to get started in the first photo shoot...
 
 Runtime 2-3 mins
 
+Idea is something like creating a ridiculous music video from composites based on keyframe animation. Each composite about a few seconds each. The motion keyframes would be in pairs of two or three. Three supports a medium animation frame
+
 ## Idea
 
 Cornelius the Sloth goes has a fun day (and night) at the shuk (Shuk Mahane Yehuda)  in Jerusalem. 
