@@ -1,6 +1,14 @@
 # Cornelius The Sloth (Character Sketch)
 
-![alt text](images/banner.png)
+[![alt text](media/images/banner.png)](media/images/banner.png)
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Author](#author)
+- [Licensing](#licensing)
+
+## Introduction
 
 The purpose of this repository is to hold a character sketch and a couple of photographs intended to provide the basis for an AI avatar project. 
 
@@ -8,24 +16,29 @@ The character sketch is, of course, entirely ridiculous and fictitious. It rough
 
 I've used RunwayML To create some rather entertaining short videos based on keyframe animation. And it's an ongoing aspiration to take the wacky idea a little bit further. Hence this repository has the basic sketch and a "headshot" for thumbnails and to try out on some generative AI tools.. 
 
+You can find some sample videos in the [media/test-vids](media/test-vids) directory.
+
 ## Author
 
-Daniel Rosehill  
+Daniel Rosehill
 (public at danielrosehill dot com)
 
 ## Licensing
 
-This repository is licensed under CC-BY-4.0 (Attribution 4.0 International) 
+This repository is licensed under CC-BY-4.0 (Attribution 4.0 International)
 [License](https://creativecommons.org/licenses/by/4.0/)
 
 ### Summary of the License
+
 The Creative Commons Attribution 4.0 International (CC BY 4.0) license allows others to:
+
 - **Share**: Copy and redistribute the material in any medium or format.
 - **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 #### License Terms
+
 - **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 - **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
