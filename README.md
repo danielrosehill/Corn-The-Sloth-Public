@@ -1,6 +1,6 @@
 # Cornelius The Sloth (Character Sketch)
 
-[![alt text](media/images/banner.png)](media/images/banner.png)
+![alt text](media/banner.png)
 
 ## Table of Contents
 
